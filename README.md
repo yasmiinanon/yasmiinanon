@@ -3,7 +3,7 @@
 <!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hi There, Welcome to my Github profile! </b> -->
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=D2AFFF&random=false&width=435&lines=Assalamu+Alaikum+Warahmatullah &hearts; ;Front+End+Web+Developer;Data+Analyst;Researcher;Active+learner;Love+to+learn+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=D2AFFF&random=false&width=435&lines=Assalamu+Alaikum+Warahmatullah &hearts; ;Front+End+Web+Developer;Data+Analyst;Researcher;Active+learner;Love+to+learn+new+things!" alt="Typing SVG">
 </p>
 
 <br>
