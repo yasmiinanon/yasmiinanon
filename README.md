@@ -3,8 +3,10 @@
 <!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hi There, Welcome to my Github profile! </b> -->
 <br>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=D2AFFF&random=false&width=435&lines=Assalamu+Alaikum+Warahmatullah &hearts; ;Front+End+Web+Developer;Data+Analyst;Researcher;Active+learner;Love+to+learn+new+things!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=D2AFFF&random=false&width=435&lines=Assalamu+Alaikum+Warahmatullah &hearts; ;Front+End+Web+Developer;Data+Analyst;Researcher;Active+learner;Love+to+learn+new+things!" alt="Typing SVG" />
 </p>
+
+<br>
 
 <h3> I'm a Data Analyst in the healthcare field by day. By night, I study front-end web development as an exciting first step toward my next career pivot.<h3>
 
