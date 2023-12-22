@@ -49,6 +49,7 @@ I’ve recently made a hobby of taking a Santander bike through a different part
 <br> 
 
 - 📚 Education:
+<br>
 ![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![W3](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
