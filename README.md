@@ -83,18 +83,19 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmiinLDN&theme=shades-of-purple" width="380"/>               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmiinLDN&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Yasmin's summary card"/>
 <br>
-<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 📚 Education [🔝](#hi-there-welcome-to-my-github-profile) -->
+<br>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ## 📚 Education [🔝](#hi-there-welcome-to-my-github-profile) -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>      Contact / Social </b> 📱 💬
 
 <a href="https://github.com/yasmiinLDN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Yasmin's Github profile" />
     </a> 
-<a href="https://www.linkedin.com/in/yasmin-i/" target="_blank">
+<a href="https://www.linkedin.com/in/yasmin-i/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=4386fa&style=for-the-badge&logo=linkedin&logoColor=white" alt="Yasmin's linkedin" />
     </a>
-<a href="https://stackexchange.com/users/13883324/yasmin-ibrahim" target="_blank">
+<a href="https://stackexchange.com/users/13883324/yasmin-ibrahim" target="blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Yasmin's Stack Overflow" />
     </a>
 
@@ -106,6 +107,8 @@ https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&log
 Python
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue -->
 
+<br>
+<br>
 <div align='center'>
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
