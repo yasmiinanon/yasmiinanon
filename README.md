@@ -80,7 +80,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmiinLDN&theme=shades-of-purple" width="380"/>               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmiinLDN&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Yasmin's summary card"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmiinanon&theme=shades-of-purple" width="380"/>               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmiinanon&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Yasmin's summary card"/>
 <br>
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -88,7 +88,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>      Contact / Social </b> 📱 💬
 
-<a href="https://github.com/yasmiinLDN" target="_blank">
+<a href="https://github.com/yasmiinanon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Yasmin's Github profile" />
     </a> 
 <a href="https://www.linkedin.com/in/yasmin-i/" target="blank">
