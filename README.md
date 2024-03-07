@@ -10,7 +10,8 @@
 
 <h3> I'm a Data Analyst by day. By night, I study front-end web development as an exciting first step toward my next career pivot.<h3>
 
-<h3> I’ve recently made a hobby of taking a Santander bike through a different part of London at least one day each week (which was a lot easier to do when the weather was better!). I’m also on a challenge to read one book a month this year to hopefully return to my childhood habit of reading!
+<h3> Love: Hiking :hiking_boot: :mountain:, Cycling :biking_woman:, Cats :cat2: :black_cat:
+     In that order
 <h3>
 
 <img width = "100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
