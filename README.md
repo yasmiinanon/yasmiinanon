@@ -111,6 +111,6 @@ https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoC
 <br>
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>✨ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ... ✨</b>
 <br>
 </div>
