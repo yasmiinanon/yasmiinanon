@@ -8,7 +8,7 @@
 
 <br>
 
-<h3> I'm a Data Analyst by day. By night, I study front-end web development as an exciting first step toward my next career pivot.<h3>
+<h3> I'm a Data Analyst by day. By night, I grow my front-end web development skills and work on various projects.<h3>
 
 <h4> Love: Hiking :hiking_boot: :mountain:, Cycling :biking_woman:, Cats :cat2: :black_cat:
      <br> In that order
