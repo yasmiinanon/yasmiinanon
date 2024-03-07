@@ -10,9 +10,9 @@
 
 <h3> I'm a Data Analyst by day. By night, I study front-end web development as an exciting first step toward my next career pivot.<h3>
 
-<h3> Love: Hiking :hiking_boot: :mountain:, Cycling :biking_woman:, Cats :cat2: :black_cat:
+<h4> Love: Hiking :hiking_boot: :mountain:, Cycling :biking_woman:, Cats :cat2: :black_cat:
      <br> In that order
-<h3>
+<h4>
 
 <img width = "100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
